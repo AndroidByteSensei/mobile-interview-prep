@@ -1,5 +1,6 @@
 ---
 icon: hand-wave
+coverY: 0
 ---
 
 # Welcome
@@ -16,4 +17,4 @@ Whether you're a beginner, intermediate, or advanced developer, this comprehensi
 
 
 
-<table data-view="cards"><thead><tr><th data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="top-100-kotlin-interview-questions.md">top-100-kotlin-interview-questions.md</a></td></tr><tr><td><a href="interview-questions/junior-kotlin-interview-questions.md">junior-kotlin-interview-questions.md</a></td></tr><tr><td><a href="interview-questions/senior-kotlin-interview-questions.md">senior-kotlin-interview-questions.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="interview-questions/top-100-kotlin-interview-questions.md">top-100-kotlin-interview-questions.md</a></td></tr><tr><td><a href="interview-questions/junior-kotlin-interview-questions.md">junior-kotlin-interview-questions.md</a></td></tr><tr><td><a href="interview-questions/senior-kotlin-interview-questions.md">senior-kotlin-interview-questions.md</a></td></tr></tbody></table>
